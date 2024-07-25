@@ -11,9 +11,9 @@
 ## What i know
 ![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
 ![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
-![javascript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
-![Html5](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg)
-![Css](https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg)
+![javascript](https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg)
+![Html](https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg)
+![Css](https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg)
 
 ## How to reach me
 [<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32">](http://t.me/ums512)
