@@ -2,8 +2,9 @@
 [![Veynamer github stats](https://github-readme-stats.vercel.app/api?username=Veynamer&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/veynamer)
 
 ## How's life
-- 📱 Ask me about Linux kernels and unisoc processors
-- 💻 Currently working on Unisoc mainline kernel, various tables and instructions under unisoc and my personal website
+- 📱 you can ask some things about gsi and porting
+- 💻 I'm currently working on FoxetGSI, various tables and instructions under unisoc and my personal website
+- (°)_(°) originGSI tool full cringe
 
 ## What's the weather
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veynamer&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/veynamer)
@@ -16,4 +17,4 @@
 ![Css](https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg)
 
 ## How to reach me
-[<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32">](http://t.me/ums512)
+[<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32">](http://t.me/veynamer)
