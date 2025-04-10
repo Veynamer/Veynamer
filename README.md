@@ -4,10 +4,12 @@
 ## What's the weather
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veynamer&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/veynamer)
 
+## My Linux Distro
+![Arch](https://github.com/gilbarbara/logos/blob/main/logos/archlinux.svg)
+
 ## What i know
 ![Linux](https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg)
 ![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
-![javascript](https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg)
 ![Html](https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg)
 ![Css](https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg)
 
