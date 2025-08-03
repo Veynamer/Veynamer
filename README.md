@@ -7,11 +7,5 @@
 ## My Linux Distro
 ![Void](https://github.com/gilbarbara/logos/blob/main/logos/void.svg)
 
-## What i know
-![Linux](https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg)
-![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
-![Html](https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg)
-![Css](https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg)
-
 ## How to reach me
 [<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32">](http://t.me/veynamer)
