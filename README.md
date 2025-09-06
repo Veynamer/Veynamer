@@ -1,11 +1,7 @@
 # Hi there 👋 this is Veynamer
-[![Veynamer github stats](https://github-readme-stats.vercel.app/api?username=Veynamer&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/veynamer)
+[![Stats](https://github-readme-stats.vercel.app/api?username=Veynamer&include_all_commits=true&show_icons=true&title_color=ff4fa2&icon_color=ff4fa2&text_color=ffffff&bg_color=0d1117)](https://github.com/veynamer)
 
-## What's the weather
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veynamer&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/veynamer)
-
-## My Linux Distro
-![Void](https://github.com/gilbarbara/logos/blob/main/logos/void.svg)
-
-## How to reach me
+## 💻 My Linux Distro
+[<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/void.svg" width="100">](https://github.com/veynamer)
+## 🌐 How to reach me  
 [<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32">](http://t.me/veynamer)
