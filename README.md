@@ -1,6 +1,8 @@
 # Hi there this is Veynamer
 [![Stats](https://github-readme-stats.vercel.app/api?username=Veynamer&include_all_commits=true&show_icons=true&title_color=ff4fa2&icon_color=ff4fa2&text_color=ffffff&bg_color=0d1117)](https://github.com/veynamer)
 
+[![Now Playing](https://img.shields.io/badge/Now_Playing-Kasane_Teto_【重音テト】_—_FIRST-ff4fa2?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/X2yPo4stVX0)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=10000&color=ff4fa2&width=200&lines=My+distro:)](https://git.io/typing-svg)
 
 ![Void Linux](https://img.shields.io/badge/Void_Linux-0A3D2D?style=for-the-badge&logo=voidlinux&logoColor=white)
