@@ -17,7 +17,12 @@
   <br/>
   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/KDE-2F7DCA?style=for-the-badge&logo=kde&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kate-0098DC?style=for-the-badge&logo=kde&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIMP-526E54?style=for-the-badge&logo=gimp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox&logoColor=white" />
 </p>
+
 
 ## How to reach me  
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/veyr1th)
