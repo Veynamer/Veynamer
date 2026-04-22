@@ -1,7 +1,7 @@
 # Hi there this is Hans Knelz
 [![Stats](https://github-readme-stats.vercel.app/api?username=Veynamer&include_all_commits=true&show_icons=true&title_color=f0a0b8&icon_color=f0a0b8&text_color=e8d8dc&bg_color=221919)](https://github.com/veynamer)
 
-[![Now Playing](https://img.shields.io/badge/Now_Playing-Kessoku_Band_결속밴드_-_Flashbacker-f0a0b8?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=SR2nLXkkf5I)
+[![Now Playing](https://img.shields.io/badge/Now_Playing-ATOLS_—_セレネ_feat.星界-f0a0b8?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/yY5fs0bFRn8)
 
 <p align="left">
   <a href="https://git.io/typing-svg">
