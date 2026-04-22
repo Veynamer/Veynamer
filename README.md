@@ -1,7 +1,10 @@
-# Hi there this is Hans Knelz
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&size=26&pause=10000&color=F0A0B8&width=460&height=40&lines=Hi+there+this+is+Hans+Knelz)](https://git.io/typing-svg)
 [![Stats](https://github-readme-stats.vercel.app/api?username=Veynamer&include_all_commits=true&show_icons=true&title_color=f0a0b8&icon_color=f0a0b8&text_color=e8d8dc&bg_color=221919)](https://github.com/veynamer)
 
 [![Now Playing](https://img.shields.io/badge/Now_Playing-ATOLS_—_セレネ_feat.星界-f0a0b8?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/yY5fs0bFRn8)
+
+[![My Site](https://img.shields.io/badge/My_Site-to_go-f0a0b8?style=for-the-badge)
+](https://hans-knelz-blog.vercel.app)
 
 <p align="left">
   <a href="https://git.io/typing-svg">
@@ -30,7 +33,8 @@
   <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" />
 </p>
 
-## How to reach me  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&size=26&pause=10000&color=F0A0B8&width=460&height=40&lines=How+to+reach+me)](https://git.io/typing-svg)
+
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/veyr1th)
 [![Matrix](https://img.shields.io/badge/Matrix-000000?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@vehans:tchncs.de)
 ___
