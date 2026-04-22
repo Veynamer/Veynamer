@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&size=26&pause=10000&color=F0A0B8&width=460&height=40&lines=Hi+there+this+is+Hans+Knelz)](https://git.io/typing-svg)
 [![Stats](https://github-readme-stats.vercel.app/api?username=Veynamer&include_all_commits=true&show_icons=true&title_color=f0a0b8&icon_color=f0a0b8&text_color=e8d8dc&bg_color=221919)](https://github.com/veynamer)
 
-[![音楽的同位体 星界](https://img.shields.io/badge/🎧_Playlist-音楽的同位体_星界_1st_COMPILATION_ALBUM_メタファー_vol.1_詩想のメタファー-f0a0b8?style=for-the-badge)](ссылка-на-плейлист)
+[![音楽的同位体 星界](https://img.shields.io/badge/🎧_Playlist-音楽的同位体_星界_1st_COMPILATION_ALBUM_メタファー_vol.1_詩想のメタファー-f0a0b8?style=for-the-badge)](https://music.youtube.com/playlist?list=OLAK5uy_l9zRad2su3bD6NrMERbh1XuD6hBhWoUDg)
 
 [![Now Playing](https://img.shields.io/badge/Now_Playing-ATOLS_—_セレネ_feat.星界-f0a0b8?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/yY5fs0bFRn8)
 
